@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:github.com)",
+      "WebSearch",
+      "WebFetch(domain:api.github.com)",
+      "Bash(curl -s \"https://raw.githubusercontent.com/Neelavro/CifarX-Assessment/main/lib/main.dart\")",
+      "Bash(flutter pub *)",
+      "Bash(fvm flutter *)",
+      "Bash(/opt/homebrew/bin/fvm flutter *)",
+      "Bash(java -version)",
+      "WebFetch(domain:stackoverflow.com)",
+      "WebFetch(domain:pub.dev)"
+    ]
+  }
+}
