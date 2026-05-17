@@ -288,11 +288,11 @@ The following usage descriptions are declared in `ios/Runner/Info.plist`:
 
 | Attendance Screen | Camera Screen | Upload Manager |
 |---|---|---|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* |
+| ![Attendance Screen](./assets/attendance_screen.png) | ![Camera Screen](./assets/camera_screen.png) | ![Upload Manager](./assets/upload_manager_screen.png) |
 
-| Permission Denied — Location | Permission Denied — Camera | No Connection Banner |
+| Permission Denied — Location | Permission Denied — Camera | Camera Live View |
 |---|---|---|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* |
+| ![Permission Denied — Location](./assets/permission_denied_attendance_screen.png) | ![Permission Denied — Camera](./assets/permission_denied_camera_screen.png) | ![Camera Live View](./assets/Screenshot_20260518_002725.png) |
 
 ---
 
